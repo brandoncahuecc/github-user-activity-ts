@@ -48,7 +48,7 @@
 > Tener cualquier versión de node js para la ejecución del código fuente
 
 ### Clonar repositorio
-> `git clone https://github.com/brandoncahuecc/task-tracking-js.git`
+> `git clone hhttps://github.com/brandoncahuecc/github-user-activity-ts`
 
 ### Instalar dependencias
 
