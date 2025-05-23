@@ -1,6 +1,8 @@
 ***
 # GitHub User Activity - `TypeScript`
 > Bitacora de actividad de los usuarios registrados en GitHub.
+> Proyecto propuesto por Roadmap.sh
+> El enunciado puedes visualizarlo en: [Roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 
 ## Descripción general
 > Proyecto de simulación de consola de bitacora de actividad realizada por usuario de GitHub. Elaborado con `TypeScript` el cual se conecta a un web service propio de GitHub que provee toda la bitacora, que posterior se manipula y se detalla la información para ser mostrada al usuario.
